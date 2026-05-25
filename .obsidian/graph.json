@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "-file: .canvas",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file: \"Notion\" OR \"[[Notion]]\"",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "file: \"Obsidian\" OR \"[[Obsidian]]\"",
+      "color": {
+        "a": 1,
+        "rgb": 4525181
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 5,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": false,
+  "centerStrength": 0.307291666666667,
+  "repelStrength": 10.1041666666667,
+  "linkStrength": 0.5,
+  "linkDistance": 30,
+  "scale": 0.5087618855792582,
+  "close": false
+}

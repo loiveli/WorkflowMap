@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"2de966d825a13e29","type":"file","file":"Ways of working/Tools/Project management - TBD.md","x":-1540,"y":-1480,"width":800,"height":580,"color":"1"},
+		{"id":"088073867b53d48c","type":"file","file":"Ways of working/Production pipeline/Scoping.md","x":-1540,"y":-1320,"width":400,"height":420,"color":"1"},
+		{"id":"c6d698efe9a5c2b4","type":"file","file":"Ways of working/Production pipeline/Task tracking.md","x":-1140,"y":-1320,"width":400,"height":420,"color":"1"},
+		{"id":"a805bdff7a2742e7","x":-480,"y":-1480,"width":640,"height":580,"color":"6","type":"file","file":"Ways of working/Tools/Version control - TBD.md"},
+		{"id":"9df9db2dd05d22b6","x":-480,"y":-1300,"width":640,"height":400,"color":"6","type":"file","file":"Ways of working/Development pipeline/Code reviews.md"}
+	],
+	"edges":[]
+}

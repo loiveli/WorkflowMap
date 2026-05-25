@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "808b9d6ad401a752",
+    "type": "split",
+    "children": [
+      {
+        "id": "59eb3d403c8b8247",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56a46141fc794860",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Tool map.canvas",
+                "viewState": {
+                  "x": -604,
+                  "y": -1340,
+                  "zoom": -1
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Tool map"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc558f0eb355c55c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cb9b013394dc171",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b7c59f018e6695c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8f761f0341cbe91b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2a7af8f01b3d67f0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0a55e56863f6b85f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0c02319f432598d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "190b2b9ed213c414",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "728ea43211b3b5fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "778d12247d4340ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2fc3b4a793dc8020",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6cce1ce42f2d2021",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "56a46141fc794860",
+  "lastOpenFiles": [
+    "Ways of working/Tools/Version control - TBD.md",
+    "Ways of working/Tools/Project management - TBD.md",
+    "Ways of working/Tools/Knowledge base - TBD.md",
+    "Ways of working/Tools/File sharing - TBD.md",
+    "Ways of working/Tools/Communication - TBD.md",
+    "Tool map.canvas",
+    "Ways of working/Content pipeline/Content pipeline.md",
+    "Ways of working/Development pipeline/Code reviews.md",
+    "Ways of working/Content pipeline/Art reviews.md",
+    "Ways of working/Production pipeline/Documentation.md",
+    "Ways of working/Production pipeline/Task tracking.md",
+    "Ways of working/Production pipeline/Scoping.md",
+    "Ways of working/Production pipeline/Production pipeline.md",
+    "Ways of working/Development pipeline/Development pipeline.md",
+    "Untitled.base",
+    "Ways of working/Programming.md",
+    "Ways of working/Development pipeline",
+    "Ways of working/Production pipeline/Production.md",
+    "Ways of working/Art/Art pipeline.md",
+    "Ways of working/Art/Untitled",
+    "Ways of working/Production pipeline",
+    "Ways of working/Content pipeline",
+    "Ways of working/Tools",
+    "Ways of working/Untitled.base",
+    "Welcome.md",
+    "Ways of working"
+  ]
+}
